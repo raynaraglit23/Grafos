@@ -2,7 +2,8 @@
  * EP1 - Algoritmo de Dijkstra
  * 
  * Integrantes do Grupo:
- * 1. Raynara Maria Aurélio Coelho 
+ * 1. Raynara Maria Aurélio Coelho
+ * 2. Gilberto Magno Souza Vieira
  */
 
 #include <stdio.h>
