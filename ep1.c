@@ -4,6 +4,7 @@
  * Integrantes do Grupo:
  * 1. Raynara Maria Aurélio Coelho
  * 2. Gilberto Magno Souza Vieira
+ * 3. Raphael Cabral de Oliveira Figueiredo
  */
 
 #include <stdio.h>
