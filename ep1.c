@@ -5,6 +5,8 @@
  * 1. Raynara Maria Aurélio Coelho
  * 2. Gilberto Magno Souza Vieira
  * 3. Raphael Cabral de Oliveira Figueiredo
+ * 4. Gabriel Silveira Sales
+ * 5. Ruan Karlos de Souza Apolonio
  */
 
 #include <stdio.h>
